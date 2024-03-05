@@ -5,7 +5,7 @@ Full Stack Software Developer
 
 -----------------------------
 
-I am a full-stack software developer who ejnoys solving challenges and building complete products!
+I am a full-stack software developer who enjoys solving challenges and building complete products!
 
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [MyPortfolio](http://mofokeng-chaka.github.io)
