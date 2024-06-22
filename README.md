@@ -10,7 +10,7 @@ I am a full-stack software developer who enjoys solving challenges and building 
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [MyPortfolio](http://mofokeng-chaka.github.io)
 * ✉️  You can contact me at [mofokeng.chk@gmail.com](mailto:mofokeng.chk@gmail.com)
-* 🧠  I'm learning Data Structure and Algorithms
+* 🧠  I'm currently taking an AWS Certified Cloud Practitioner CLF-C02 course
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
