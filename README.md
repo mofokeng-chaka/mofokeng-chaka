@@ -1,36 +1,70 @@
 Hi 👋 My name is Chaka Mofokeng
 ===============================
 
-Full Stack Software Developer
+Cloud Support Engineer — AI/ML & Cloud Solutions
+-------------------------------------------------
 
------------------------------
+I help people solve complex problems and use cloud services efficiently for AI/ML workloads. I specialize in Amazon Bedrock, SageMaker, and building intelligent data pipelines that turn raw data into actionable insights.
 
-I am a full-stack software developer who enjoys solving challenges and building complete products!
+* 🌍  Based in Cape Town, South Africa
+* ☁️  Cloud Support Engineer focused on **AI/ML solutions on AWS**
+* 🖥️  See my portfolio at [mofokeng-chaka.github.io](https://mofokeng-chaka.github.io)
+* ✉️  Reach me at [mofokeng.chk@gmail.com](mailto:mofokeng.chk@gmail.com)
+* 🧠  Currently deepening expertise in **Amazon Bedrock**, **Generative AI**, and **ML Ops**
+* 🏗️  Building data pipelines and AI-powered applications on AWS
+* 🤝  Open to collaborating on cloud-native AI/ML projects
 
-* 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [MyPortfolio](http://mofokeng-chaka.github.io)
-* ✉️  You can contact me at [mofokeng.chk@gmail.com](mailto:mofokeng.chk@gmail.com)
-* 🧠  I'm currently taking an AWS Certified Cloud Practitioner CLF-C02 course
-* 🤝  I'm open to collaborating on Projects
+---
 
-### Skills
+### What I Do
 
+🔹 **AI/ML Cloud Solutions** — Architecting and troubleshooting ML workloads on AWS (SageMaker, Bedrock, Comprehend, Textract, Transcribe)
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arbitrum-colored.svg" width="36" height="36" alt="Arbitrum" /></a></p>
+🔹 **Data Pipelines** — Building end-to-end pipelines for multimodal data processing with foundation models
+
+🔹 **Cloud Support** — Helping teams adopt cloud services efficiently, resolve issues, and optimize costs
+
+🔹 **GenAI Applications** — Designing RAG systems, guardrails, and agentic workflows with Amazon Bedrock
+
+---
+
+### Tech Stack
+
+#### Cloud & AI/ML
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/bedrock/)
+[![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
+#### Services & Tools
+[![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)](https://aws.amazon.com/lambda/)
+[![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Insurance Claim Processor](https://github.com/mofokeng-chaka/insurance-claim-processor) | Automated document processing with Bedrock, RAG knowledge base, and Guardrails PII masking | Bedrock, Claude, Flask, S3 |
+| [Customer Feedback Pipeline](https://github.com/mofokeng-chaka/customer-feedback-pipeline) | Multimodal data validation & processing pipeline for FM-powered business insights | Comprehend, Textract, Transcribe, Bedrock, Terraform |
+
+---
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mofokeng-chaka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/chaka-mofokeng" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaka-mofokeng)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/mofokeng-chaka)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### GitHub Stats
 
-<a href="http://www.github.com/mofokeng-chaka"><img src="https://github-readme-stats.vercel.app/api?username=mofokeng-chaka&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mofokeng-chaka's GitHub stats" /></a>
+<a href="http://www.github.com/mofokeng-chaka"><img src="https://github-readme-stats.vercel.app/api?username=mofokeng-chaka&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="mofokeng-chaka's GitHub stats" /></a>
 
-<a href="http://www.github.com/mofokeng-chaka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mofokeng-chaka&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/mofokeng-chaka"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=mofokeng-chaka&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mofokeng-chaka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofokeng-chaka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/mofokeng-chaka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofokeng-chaka&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Top Languages" /></a>
