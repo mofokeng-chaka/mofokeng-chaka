@@ -47,11 +47,18 @@ I help people solve complex problems and use cloud services efficiently for AI/M
 
 ---
 
-### Featured Projects
+### 📌 Pinned Projects
+
+<a href="https://github.com/mofokeng-chaka/insurance-claim-processor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mofokeng-chaka&repo=insurance-claim-processor&theme=dark&hide_border=true" />
+</a>
+<a href="https://github.com/mofokeng-chaka/customer-feedback-pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mofokeng-chaka&repo=customer-feedback-pipeline&theme=dark&hide_border=true" />
+</a>
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Insurance Claim Processor](https://github.com/mofokeng-chaka/insurance-claim-processor) | Automated document processing with Bedrock, RAG knowledge base, and Guardrails PII masking | Bedrock, Claude, Flask, S3 |
+| [Insurance Claim Processor](https://github.com/mofokeng-chaka/insurance-claim-processor) | Automated document processing with Bedrock, RAG knowledge base, and Guardrails PII masking | Bedrock, Claude 4.5, Flask, S3 |
 | [Customer Feedback Pipeline](https://github.com/mofokeng-chaka/customer-feedback-pipeline) | Multimodal data validation & processing pipeline for FM-powered business insights | Comprehend, Textract, Transcribe, Bedrock, Terraform |
 
 ---
